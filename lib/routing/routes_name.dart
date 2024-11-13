@@ -1,0 +1,44 @@
+class VRoutesName {
+  static const String splashRoute = 'splash-route';
+  static const String welcomeRoute = 'welcome-route';
+  static const String onBoardingRoute = 'on-boarding-route';
+  static const String choiceAuthRoute = 'choice-auth-route';
+  static const String createAccountRoute = 'create-account-route';
+  static const String fillYourRoute = 'fill-your-profile-route';
+  static const String loginAccountRoute = 'login-account-route';
+  static const String forgetPasswordRoute = 'forget-password-route';
+  static const String enterEmailRoute = 'enterEmailRoute';
+  static const String enterFunctionConnectionRoute = 'enterFunctionConnectionRoute';
+  static const String enterNewPasswordRoute = 'enterNewPasswordRoute';
+  static const String otpRoute = 'otp-route';
+  static const String navigationMenuRoute = 'navigationMenuRoute';
+  static const String homeRoute = 'homeRoute';
+  static const String editProfileRoute = 'editProfileRoute';
+  static const String notificationRoute = 'notificationRoute';
+  static const String walletRoute = 'walletRoute';
+  static const String privacyPolicyRoute = 'privacyPolicyRoute';
+  static const String helpCenterRoute = 'helpCenterRoute';
+  static const String inviteFriendsRoute = 'inviteFriendsRoute';
+  static const String placeDetailsRoute = 'placeDetailsRoute';
+  static const String choiceYourPassenger = 'choiceYourPassenger';
+  static const String choiceDataAndTimeRoute = 'choiceDataAndTimeRoute';
+  static const String reviewSummaryRoute = 'reviewSummaryRoute';
+  static const String parkingTicketRoute = 'parkingTicketRoute';
+  static const String parkingTimerRoute = 'parkingTimerRoute';
+  static const String changePasswordRoute = 'changePasswordRoute';
+  static const String scanRoute = 'scanRoute';
+  static const String addNewUserRoute = 'addNewUserRoute';
+  static const String allOrdersRoute = 'allOrdersRoute';
+  static const String allUsersRoute = 'allUsersRoute';
+  static const String allDriversRoute = 'allDriversRoute';
+  static const String allSubOwnersRoute = 'allSubOwnersRoute';
+  static const String addWalletRoute = 'addWalletRoute';
+  static const String allGaragesRoute = 'allGaragesRoute';
+  static const String addNewGarageRoute = 'addNewGarageRoute';
+  static const String addNewDriverRoute = 'addNewDriverRoute';
+  static const String attendancesRoute = 'attendancesRoute';
+  static const String choiceAttendanceRoute = 'choiceAttendanceRoute';
+  static const String attendancesInStartRoute = 'attendancesInStartRoute';
+  static const String attendancesInEndRoute = 'attendancesInEndRoute';
+
+}
